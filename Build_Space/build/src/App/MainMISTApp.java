@@ -36,7 +36,7 @@ public class MainMISTApp extends Application {
 	public void start(Stage primaryStage){
 
 		this.primaryStage = primaryStage;
-		this.primaryStage.setTitle("S H I T");
+		this.primaryStage.setTitle("M I S T");
 
 		showHomePage();
 

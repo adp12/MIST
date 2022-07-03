@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="mistApp.jar" size="45251" download="eager" />
+    <jar href="mistApp.jar" size="45252" download="eager" />
     <jar href="libs\controlsfx-8.40.10.jar" size="954085" download="eager" />
     <jar href="libs\jidefx-common-b128-javadoc.jar" size="442609" download="eager" />
     <jar href="libs\jidefx-common-b128-sources.jar" size="213087" download="eager" />
